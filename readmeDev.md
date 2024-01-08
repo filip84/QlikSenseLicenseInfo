@@ -1,1 +1,1 @@
-nexe extractor.js
+nexe filename.js
